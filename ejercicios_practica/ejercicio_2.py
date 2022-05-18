@@ -18,7 +18,7 @@ print('Ingrese por consola el segundo número entero a operar:')
 numero_2 = int(input())
 
 # Alumno: Imprima en pantalla los dos números enteros solicitados
-# print(....)
+print(numero_1 , numero_2)
 
 # Alumno: Calcule la suma, resta, división y multiplicación de los números ingresados
 # numero_1, numero_2
@@ -27,9 +27,39 @@ numero_2 = int(input())
 # NOTA: No coloque usted los nùmeros y resultados, use las variables
 
 # Suma
+# consola con la función "input" como se ve a continuación
+print('Ingrese por consola el primer número entero a operar:')
+numero_1 = int(input())
+
+print('Ingrese por consola el segundo número entero a operar:')
+numero_2 = int(input())
+
+print("el resultado de la suma ingresada es =" , numero_1 + numero_2)
 
 # Resta
+# consola con la función "input" como se ve a continuación
+print('Ingrese por consola el primer número entero a operar:')
+numero_1 = int(input())
 
+print('Ingrese por consola el segundo número entero a operar:')
+numero_2 = int(input())
+
+print("el resultado de la resta ingresada es =" , numero_1 - numero_2)
 # División
+# consola con la función "input" como se ve a continuación
+print('Ingrese por consola el primer número entero a operar:')
+numero_1 = int(input())
 
+print('Ingrese por consola el segundo número entero a operar:')
+numero_2 = int(input())
+
+print("el resultado de la division es =" , numero_1 / numero_2)
 # Multiplicación
+# consola con la función "input" como se ve a continuación
+print('Ingrese por consola el primer número entero a operar:')
+numero_1 = int(input())
+
+print('Ingrese por consola el segundo número entero a operar:')
+numero_2 = int(input())
+
+print("el resultado multipicacion es =" , numero_1 * numero_2)
