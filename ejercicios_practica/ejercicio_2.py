@@ -28,13 +28,15 @@ print(numero_1 , numero_2)
 
 # Suma
 # consola con la función "input" como se ve a continuación
+
+
 print('Ingrese por consola el primer número entero a operar:')
 numero_1 = int(input())
 
 print('Ingrese por consola el segundo número entero a operar:')
 numero_2 = int(input())
 
-print("el resultado de la suma ingresada es =" , numero_1 + numero_2)
+print("el resultado de la sumar " , numero_1, "Y", numero_2, "es =", numero_1 + numero_2)
 
 # Resta
 # consola con la función "input" como se ve a continuación
@@ -44,7 +46,7 @@ numero_1 = int(input())
 print('Ingrese por consola el segundo número entero a operar:')
 numero_2 = int(input())
 
-print("el resultado de la resta ingresada es =" , numero_1 - numero_2)
+print("el resultado de restar " , numero_1, "Y", numero_2, "es =", numero_1 - numero_2)
 # División
 # consola con la función "input" como se ve a continuación
 print('Ingrese por consola el primer número entero a operar:')
@@ -53,7 +55,7 @@ numero_1 = int(input())
 print('Ingrese por consola el segundo número entero a operar:')
 numero_2 = int(input())
 
-print("el resultado de la division es =" , numero_1 / numero_2)
+print("el resultado de dividir " , numero_1, "Y", numero_2, "es =", numero_1 / numero_2)
 # Multiplicación
 # consola con la función "input" como se ve a continuación
 print('Ingrese por consola el primer número entero a operar:')
@@ -62,4 +64,4 @@ numero_1 = int(input())
 print('Ingrese por consola el segundo número entero a operar:')
 numero_2 = int(input())
 
-print("el resultado multipicacion es =" , numero_1 * numero_2)
+print("el resultado de multiplicar " , numero_1, "Y", numero_2, "es =", numero_1 * numero_2)
